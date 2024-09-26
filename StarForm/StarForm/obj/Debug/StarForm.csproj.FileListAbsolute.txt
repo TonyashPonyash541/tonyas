@@ -1,0 +1,10 @@
+C:\Users\Dns\source\repos\StarForm\StarForm\bin\Debug\StarForm.exe.config
+C:\Users\Dns\source\repos\StarForm\StarForm\bin\Debug\StarForm.exe
+C:\Users\Dns\source\repos\StarForm\StarForm\bin\Debug\StarForm.pdb
+C:\Users\Dns\source\repos\StarForm\StarForm\obj\Debug\StarForm.csproj.AssemblyReference.cache
+C:\Users\Dns\source\repos\StarForm\StarForm\obj\Debug\StarForm.Properties.Resources.resources
+C:\Users\Dns\source\repos\StarForm\StarForm\obj\Debug\StarForm.csproj.GenerateResource.cache
+C:\Users\Dns\source\repos\StarForm\StarForm\obj\Debug\StarForm.csproj.CoreCompileInputs.cache
+C:\Users\Dns\source\repos\StarForm\StarForm\obj\Debug\StarForm.exe
+C:\Users\Dns\source\repos\StarForm\StarForm\obj\Debug\StarForm.pdb
+C:\Users\Dns\source\repos\StarForm\StarForm\obj\Debug\Starform.Form1.resources
