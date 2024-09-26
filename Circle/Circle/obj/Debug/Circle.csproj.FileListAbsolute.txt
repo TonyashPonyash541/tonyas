@@ -1,0 +1,11 @@
+C:\Users\Dns\source\repos\Circle\Circle\obj\Debug\Circle.csproj.AssemblyReference.cache
+C:\Users\Dns\source\repos\Circle\Circle\obj\Debug\Form2.resources
+C:\Users\Dns\source\repos\Circle\Circle\obj\Debug\Circle.Properties.Resources.resources
+C:\Users\Dns\source\repos\Circle\Circle\obj\Debug\Circle.csproj.GenerateResource.cache
+C:\Users\Dns\source\repos\Circle\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+C:\Users\Dns\source\repos\Circle\Circle\bin\Debug\Circle.exe.config
+C:\Users\Dns\source\repos\Circle\Circle\bin\Debug\Circle.exe
+C:\Users\Dns\source\repos\Circle\Circle\bin\Debug\Circle.pdb
+C:\Users\Dns\source\repos\Circle\Circle\obj\Debug\Circle.Form1.resources
+C:\Users\Dns\source\repos\Circle\Circle\obj\Debug\Circle.exe
+C:\Users\Dns\source\repos\Circle\Circle\obj\Debug\Circle.pdb
