@@ -1,0 +1,10 @@
+C:\Users\Dns\source\repos\temperature\temperature\obj\Debug\temperature.csproj.AssemblyReference.cache
+C:\Users\Dns\source\repos\temperature\temperature\obj\Debug\temperature.Form1.resources
+C:\Users\Dns\source\repos\temperature\temperature\obj\Debug\temperature.Properties.Resources.resources
+C:\Users\Dns\source\repos\temperature\temperature\obj\Debug\temperature.csproj.GenerateResource.cache
+C:\Users\Dns\source\repos\temperature\temperature\obj\Debug\temperature.csproj.CoreCompileInputs.cache
+C:\Users\Dns\source\repos\temperature\temperature\bin\Debug\temperature.exe.config
+C:\Users\Dns\source\repos\temperature\temperature\bin\Debug\temperature.exe
+C:\Users\Dns\source\repos\temperature\temperature\bin\Debug\temperature.pdb
+C:\Users\Dns\source\repos\temperature\temperature\obj\Debug\temperature.exe
+C:\Users\Dns\source\repos\temperature\temperature\obj\Debug\temperature.pdb
