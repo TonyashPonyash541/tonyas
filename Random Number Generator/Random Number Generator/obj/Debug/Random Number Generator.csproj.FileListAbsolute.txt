@@ -1,0 +1,10 @@
+C:\Users\Dns\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random Number Generator.csproj.AssemblyReference.cache
+C:\Users\Dns\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random_Number_Generator.Form1.resources
+C:\Users\Dns\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random_Number_Generator.Properties.Resources.resources
+C:\Users\Dns\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random Number Generator.csproj.GenerateResource.cache
+C:\Users\Dns\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random Number Generator.csproj.CoreCompileInputs.cache
+C:\Users\Dns\source\repos\Random Number Generator\Random Number Generator\bin\Debug\Random Number Generator.exe.config
+C:\Users\Dns\source\repos\Random Number Generator\Random Number Generator\bin\Debug\Random Number Generator.exe
+C:\Users\Dns\source\repos\Random Number Generator\Random Number Generator\bin\Debug\Random Number Generator.pdb
+C:\Users\Dns\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random Number Generator.exe
+C:\Users\Dns\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random Number Generator.pdb
